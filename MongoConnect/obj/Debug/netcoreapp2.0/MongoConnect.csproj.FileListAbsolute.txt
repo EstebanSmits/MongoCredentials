@@ -1,0 +1,12 @@
+D:\Repository\MongoConnect\MongoConnect\bin\Debug\netcoreapp2.0\MongoConnect.deps.json
+D:\Repository\MongoConnect\MongoConnect\bin\Debug\netcoreapp2.0\MongoConnect.runtimeconfig.json
+D:\Repository\MongoConnect\MongoConnect\bin\Debug\netcoreapp2.0\MongoConnect.runtimeconfig.dev.json
+D:\Repository\MongoConnect\MongoConnect\bin\Debug\netcoreapp2.0\MongoConnect.dll
+D:\Repository\MongoConnect\MongoConnect\obj\Debug\netcoreapp2.0\MongoConnect.csprojAssemblyReference.cache
+D:\Repository\MongoConnect\MongoConnect\obj\Debug\netcoreapp2.0\MongoConnect.csproj.CoreCompileInputs.cache
+D:\Repository\MongoConnect\MongoConnect\obj\Debug\netcoreapp2.0\MongoConnect.AssemblyInfoInputs.cache
+D:\Repository\MongoConnect\MongoConnect\obj\Debug\netcoreapp2.0\MongoConnect.AssemblyInfo.cs
+D:\Repository\MongoConnect\MongoConnect\bin\Debug\netcoreapp2.0\MongoConnect.pdb
+D:\Repository\MongoConnect\MongoConnect\obj\Debug\netcoreapp2.0\MongoConnect.dll
+D:\Repository\MongoConnect\MongoConnect\obj\Debug\netcoreapp2.0\MongoConnect.pdb
+D:\Repository\MongoConnect\MongoConnect\bin\Debug\netcoreapp2.0\MongoConnect.dll.config
